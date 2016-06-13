@@ -19,6 +19,7 @@
   "homepage": "https://github.com/holyshared/firebase#readme",
   "dependencies": {
     "express": "^4.13.4",
-    "firebase": "^3.0.4"
+    "firebase": "^3.0.4",
+    "log4js": "^0.6.36"
   }
 }
