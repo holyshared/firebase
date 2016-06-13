@@ -1,0 +1,24 @@
+{
+  "name": "firebase-example",
+  "version": "1.0.0",
+  "description": "firebase-example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holyshared/firebase.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/holyshared/firebase/issues"
+  },
+  "homepage": "https://github.com/holyshared/firebase#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "firebase": "^3.0.4"
+  }
+}

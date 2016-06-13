@@ -1,2 +1,2 @@
 # firebase
-firebase-app
+firebase-example
